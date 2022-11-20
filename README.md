@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# SPA Thata Randomly generates anime pictures using an API;
+tutorial on React Router and
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
